@@ -25,6 +25,7 @@ MongoDB • SQL Server
 
 ### Cloud & Tools
 AWS • Git • GitHub
+
 ---
 
 ## 🎓 Education
