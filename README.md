@@ -27,6 +27,12 @@ Mahat Institute | 2022–2025
 
 ---
 
+🚀 Featured Work
+
+Explore my repositories below to see projects built with React, React Native, Node.js, C#, .NET, MongoDB, SQL Server, and AWS.
+
+---
+
 ## 📫 Contact Me
 
 📧 **Email:** [mf0548545957@gmail.com](mailto:mf0548545957@gmail.com)
