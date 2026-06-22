@@ -12,12 +12,19 @@ I continuously seek new technologies, embrace challenges, and believe that conti
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Technologies
 
-<p align="left">
-React • React Native • Angular • TypeScript • JavaScript • Node.js • Express • C# • .NET • MongoDB • SQL Server • AWS • Git • Material UI • HTML • CSS
-</p>
+### Frontend
+React • Angular • TypeScript • JavaScript • HTML • CSS • Material UI
 
+### Backend
+Node.js • Express • C# • .NET
+
+### Databases
+MongoDB • SQL Server
+
+### Cloud & Tools
+AWS • Git • GitHub
 ---
 
 ## 🎓 Education
